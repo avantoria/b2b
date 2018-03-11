@@ -1,0 +1,651 @@
+{
+  "settings": {
+    "name": "B2B Landing Page - Be Found",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "unicore",
+      "title": "Unicore",
+      "styling": {
+        "primaryColor": "#29d9c2",
+        "successColor": "#7ac673",
+        "infoColor": "#27aae0",
+        "warningColor": "#faaf40",
+        "dangerColor": "#f97352",
+        "titleFont": "Montserrat",
+        "textFont": "Raleway",
+        "isSquareButtons": false
+      },
+      "additionalSetColors": [
+        "#222222",
+        "#ffffff",
+        "#333333"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.6",
+    "uniqCompNum": 45,
+    "versionPublish": "4.6.6"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Avantoria</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/coffee-2-2000x1331.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.25,
+            "showIcons": true,
+            "iconsColor": "#fff",
+            "icon1": "fa-comments",
+            "icon2": "fa-users",
+            "icon3": "fa-plane",
+            "icon4": "fa-trophy",
+            "showTitles": true
+          },
+          "title": "Create a <b>community</b> with your quality customers.&nbsp;",
+          "title1": "Relevant Feedback",
+          "title2": "Customer Community",
+          "title3": "Attract Travelers",
+          "title4": "Curate Experiences",
+          "text": "Avantoria is a platform that is disrupting the way how people travel and discover the best places in the world.",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Find out more<i class=\"fa fa-shopping-basket\"></i></a> ",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-o"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5,
+            "showIcons": true,
+            "iconsColor": "@primaryColor",
+            "icon1": "fa-mobile",
+            "icon2": "fa-users",
+            "icon3": "fa-trophy"
+          },
+          "title1": "What is avantoria",
+          "title2": "who is it for",
+          "title3": "why avantoria",
+          "title4": "Flashy Look",
+          "text1": "Avantoria is <b>a platform</b> that let's your customers connect to you as one of their most trusted experts. With that connection in place, you are able to suggest cafes, restaurants or other businesses to your community and shape your customers experiences anywhere in the world. Build a community and foster loyalty.",
+          "text2": "Avantoria is perfect <b>for small businesses</b> who seek a platform that allows them to engage with their most valuable customers in a new way. It helps businesses be found by customers that fit their target audience and allows to build a loyal community both with customers as well as other businesses.",
+          "text3": "The key differences to existing search and recommendation platforms are:<br>- The app is about <b>experiences</b> and it allows you to shape them for your customers<br>- Eliminate<b> unqualified ratings</b> such as random feedback, bots etc.<br>- Be found by <b>quality customers</b><br>- It is a community for <b>aficionados</b><br>",
+          "text4": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-u",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1686x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Be found by quality customers.",
+                "contentAlign": "right",
+                "overlay": "true",
+                "text": "Not every customer shares the same values that you and your business stand for. Current search apps provide platforms for unfiltered feedback. Avantoria differs by only showing relevant feedback that is personalized and relevant. By doing so we guarantee that you will be found by the most quality customers you could imagine.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">find out more</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Eliminate unqualified ratings.",
+                "contentAlign": "right",
+                "overlay": "true",
+                "text": "We at Avantoria believe that the way ratings at current search engines work do not provide much value. That is why we are eliminating this scale completely, and focus only on the recommendations that truly matter. By creating a recommendation system from coffee enthusiasts to coffee enthusiasts, Avantoria ensures a superior and delighting experience in an intuitive way.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">find out more</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "A community for afficionados.",
+                "contentAlign": "center",
+                "overlay": "true",
+                "text": "Avantoria is disrupting the way small businesses reach out to customers and receive the exposure they deserve. By bringing together a select group of the highest quality places only experts can recommend, Avantoria is establishing a platform that puts small, local businesses into the spotlight. From a B2C perspective, Avantoria is maximizing the traffic of tourists and thus your customers, yet by connecting you with the best businesses that exist somewhere else, Avantoria is also shaping a new type of community among businesses.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">find out more</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Loyalty at its best.",
+                "contentAlign": "center",
+                "overlay": "true",
+                "text": "Avantoria will help you bring loyalty to the next level. Thanks to Avantoria you can connect with your customers no matter where they are. Provide valuable recommendations, curate a personal relationship or offer reward points - your options to establish a real relationship with your customers are endless.<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Find out More</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "A new way of Marketing",
+                "contentAlign": "center",
+                "overlay": "true",
+                "text": "There is a variety of apps that show your cafe to tourists, but if you have any input on them finding your place at all it is through purchased advertising. &nbsp;Avantoria is dedicated to connecting you with your existing and new customers in a completely new way, geared towards personalization and interaction. You will finally reach particularly those individuals that are looking for superior quality in a unique environment.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Find out More</a> "
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-3",
+          "_styles": {
+            "H1": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<span style=\"font-weight: normal;\">How Avantoria works</span>",
+          "text": "",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box18",
+          "_anchor": "msg-box18-k",
+          "_styles": {
+            "H3": {
+              "color": "#222222"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showSubtitle": true,
+            "showText": true,
+            "elements": "5",
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "button1": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-info btn-circle\" data-toggle=\"tab\" href=\"#menu1\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-info fa-3x\"></i></a>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-default btn-circle\" data-toggle=\"tab\" href=\"#menu2\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-file-text-o fa-3x\"></i></a>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-default btn-circle\" data-toggle=\"tab\" href=\"#menu3\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-image fa-3x\"></i></a>",
+          "button4": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-default btn-circle\" data-toggle=\"tab\" href=\"#menu4\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-cogs fa-3x\"></i></a>",
+          "button5": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-default btn-circle\" data-toggle=\"tab\" href=\"#menu5\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-check fa-3x\"></i></a>",
+          "title1": "Create avantoria<br>profile",
+          "title2": "connect to your<br>social media",
+          "title3": "SETUP YOUR recommendations",
+          "title4": "connect with your customers",
+          "title5": "explore all benefits of a loyal community",
+          "subtitle1": "CREATE AVANTORIA PROFILE",
+          "subtitle2": "CONNECT TO YOUR SOCIAL MEDIA",
+          "subtitle3": "SETUP YOUR RECOMMENDATIONS",
+          "subtitle4": "CONNECT WITH YOUR CUSTOMERS",
+          "subtitle5": "EXPLORE ALL BENEFITS OF A LOYAL COMMUNITY",
+          "text1": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
+          "text2": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
+          "text3": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
+          "text4": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
+          "text5": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box16",
+          "_anchor": "msg-box16-s"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showForm": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1464x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.8"
+          },
+          "title1": "Get started now.",
+          "text": "Create a community with your most loyal customers today and elevate their experiences world-wide to a new level.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Sign up for free</a>",
+          "form": {
+            "title": "SUBSCRIBE",
+            "action": "rreichert@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Full Name",
+                "customTitle": "Full Name"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email Address here"
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-w"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<span style=\"font-weight: normal;\">Benefits at a glance</span>",
+          "text": "Magna eget nunc iaculis dolor amet nunc.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box18",
+          "_anchor": "msg-box18-p",
+          "_styles": {
+            "H3": {
+              "color": "#222222"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "elements": "4",
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5,
+            "showIcons": true,
+            "iconsColor": "@primaryColor",
+            "icon1": "fa-comments",
+            "icon2": "fa-users",
+            "icon3": "fa-plane",
+            "icon4": "fa-trophy"
+          },
+          "title1": "Relevant feedback",
+          "title2": "Customer Community",
+          "title3": "Attract travelers",
+          "title4": "Curate Experiences",
+          "text1": "You receive feedback by customers that share your values and matter the most to you. Say good-bye to feedback of bots or random customers.",
+          "text2": "As a trusted expert to your community, you are shaping their experiences around the world. You can bond with your customers and foster loyalty.",
+          "text3": "You refer your customers to other businesses and they will do the same for you. Through this you are reaching non-local customers with similar taste.",
+          "text4": "Big chains are able to create a consistent offering to their customer base world wide. By creating your own community, you can do that even better.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-8"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<span style=\"font-weight: normal;\">Your Customers are the ones that benefit!</span>",
+          "text": "Magna eget nunc iaculis dolor amet nunc.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box18",
+          "_styles": {
+            "H3": {
+              "color": "#222222"
+            }
+          },
+          "_anchor": "msg-box18-10"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "showMedia": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75,
+            "showIcons": true,
+            "iconsColor": "#29d9c2",
+            "icon1": "fa-tags",
+            "icon2": "fa-bullhorn",
+            "icon3": "fa-calendar",
+            "icon4": "fa-user",
+            "icon5": "fa-star",
+            "icon6": "fa-comments"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-12-at-9.38.23-pm-364x727.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Your Recommendations",
+          "title2": "Trending Today",
+          "title3": "Your Next Trip",
+          "title4": "Profile History",
+          "title5": "Feedback",
+          "title6": "Share",
+          "text1": "Aspire your customers by letting them explore your favorite places<br>",
+          "text2": "Create a complete journey for your customers instead of a single interactions<br><br>",
+          "text3": "Every journey enables a better next one, empowering Avantoria to become better and better",
+          "text4": "All of your recommendations will prevail and help create even more unique experiences",
+          "text5": "We believe in honest, filtered feedback that help the customer make smart decisions",
+          "text6": "Expand your exposure thanks to customers sharing their profile history<br><br>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header22",
+          "_anchor": "header22-7",
+          "_styles": {
+            "H4": {
+              "color": "#333333"
+            },
+            "P": {
+              "color": "#333333"
+            },
+            "i": {
+              "color": "#29d9c2 !important"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "elements": "3",
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5,
+            "showIcons": true,
+            "iconsColor": "@primaryColor",
+            "icon1": "fa-television",
+            "icon2": "fa-css3",
+            "icon3": "fa-hand-pointer-o"
+          },
+          "title1": "Better experiences",
+          "title2": "Less effort",
+          "title3": "easy &amp; Fun",
+          "text1": "You see recommendations of your selected experts, friends and family. You are in control and won't be annoyed with random feedback or postings of bots.",
+          "text2": "Lorem ipsum dolor sit amet adipiscing elit sed orci dictum sagittis libero vitae auctor elit. Praesent accumsan mauris eget tortor auctor efficitur nunc iaculis nunc.",
+          "text3": "Lorem ipsum dolor sit amet adipiscing elit sed orci dictum sagittis libero vitae auctor elit. Praesent accumsan mauris eget tortor auctor efficitur nunc iaculis nunc.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-11"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showForm": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1464x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.8"
+          },
+          "title1": "Get started now.",
+          "text": "Create a community with your most loyal customers today and elevate their experiences world-wide to a new level.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Sign up for free</a>",
+          "form": {
+            "title": "SUBSCRIBE",
+            "action": "rreichert@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Full Name",
+                "customTitle": "Full Name"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email Address here"
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-18"
+        }
+      ]
+    }
+  }
+}
