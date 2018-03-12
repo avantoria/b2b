@@ -146,24 +146,24 @@ blockquote {
 p {
   font-family: 'Raleway', sans-serif !important;
 }
-#dropdown-menu-r .hide-buttons [data-button] {
+#dropdown-menu-1a .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-r .nav .link,
-#dropdown-menu-r .dropdown-item {
+#dropdown-menu-1a .nav .link,
+#dropdown-menu-1a .dropdown-item {
   font-size: 1em;
   color: #ffffff;
 }
-#dropdown-menu-r .navbar,
-#dropdown-menu-r .dropdown-menu {
+#dropdown-menu-1a .navbar,
+#dropdown-menu-1a .dropdown-menu {
   background: #333;
 }
-#dropdown-menu-r .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-r .dropdown-menu a:hover,
-#dropdown-menu-r .dropdown-menu a:focus {
+#dropdown-menu-1a .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1a .dropdown-menu a:hover,
+#dropdown-menu-1a .dropdown-menu a:focus {
   background: #292929;
 }
-#dropdown-menu-r .navbar-toggler {
+#dropdown-menu-1a .navbar-toggler {
   color: #ffffff;
 }
 #features4-u P {
