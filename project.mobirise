@@ -6,9 +6,9 @@
       "name": "unicore",
       "title": "Unicore",
       "styling": {
-        "primaryColor": "#29d9c2",
+        "primaryColor": "#336a86",
         "successColor": "#7ac673",
-        "infoColor": "#27aae0",
+        "infoColor": "#336a86",
         "warningColor": "#faaf40",
         "dangerColor": "#f97352",
         "titleFont": "Montserrat",
@@ -113,9 +113,9 @@
             "icon4": "fa-trophy",
             "showTitles": true
           },
-          "title": "Create a <b>community</b> with your quality customers.&nbsp;",
+          "title": "Enthusiasts<b> </b>should enjoy<b>&nbsp;</b>a superior<b>&nbsp;experience</b>.<b> </b>Always.",
           "title1": "Relevant Feedback",
-          "title2": "Customer Community",
+          "title2": "Foster the Community",
           "title3": "Attract Travelers",
           "title4": "Curate Experiences",
           "text": "Avantoria is a platform that is disrupting the way how people travel and discover the best places in the world.",
@@ -155,9 +155,9 @@
           "title2": "who is it for",
           "title3": "why avantoria",
           "title4": "Flashy Look",
-          "text1": "Avantoria is <b>a platform</b> that let's your customers connect to you as one of their most trusted experts. With that connection in place, you are able to suggest cafes, restaurants or other businesses to your community and shape your customers experiences anywhere in the world. Build a community and foster loyalty.",
-          "text2": "Avantoria is perfect <b>for small businesses</b> who seek a platform that allows them to engage with their most valuable customers in a new way. It helps businesses be found by customers that fit their target audience and allows to build a loyal community both with customers as well as other businesses.",
-          "text3": "The key differences to existing search and recommendation platforms are:<br>- The app is about <b>experiences</b> and it allows you to shape them for your customers<br>- Eliminate<b> unqualified ratings</b> such as random feedback, bots etc.<br>- Be found by <b>quality customers</b><br>- It is a community for <b>aficionados</b><br>",
+          "text1": "Avantoria is <b>a platform</b>&nbsp;that helps your customers find splendid places through relevant feedback - yours. By suggesting your favorite cafes, restaurants or other businesses to your customers, you can ensure your customer enjoys an experience as great as the one in your store no matter where they are traveling to.&nbsp;",
+          "text2": "Avantoria is perfect <b>for small businesses</b> who seek a platform that allows them to engage with their most valuable customers in a new way, and who are looking for a new type of recommendation system. It helps businesses be found by customers that fit their target audience and allows to build a loyal community both with customers as well as other businesses.",
+          "text3": "The key differences to existing search and recommendation platforms are:<br>- A <b>personalized</b> <b>community</b> of recommenders<br>- Only customers themselves decide whom &nbsp; &nbsp; &nbsp; &nbsp;they want feedback from<br>- No<b> unqualified ratings</b> such as random &nbsp;feedback, bots etc.<br>- Be found by <b>quality customers </b>from your partners and other businesses<br><br>",
           "text4": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.",
           "alias": "unicore/components",
           "_tags": [
@@ -213,7 +213,7 @@
                 "title": "A community for afficionados.",
                 "contentAlign": "center",
                 "overlay": "true",
-                "text": "Avantoria is disrupting the way small businesses reach out to customers and receive the exposure they deserve. By bringing together a select group of the highest quality places only experts can recommend, Avantoria is establishing a platform that puts small, local businesses into the spotlight. From a B2C perspective, Avantoria is maximizing the traffic of tourists and thus your customers, yet by connecting you with the best businesses that exist somewhere else, Avantoria is also shaping a new type of community among businesses.&nbsp;",
+                "text": "Avantoria is disrupting the way small businesses reach out to customers and receive the exposure they deserve. By creating a community that can finally exchange all the favorite places in an intuitive way, Avantoria is establishing a platform that puts small, local businesses into the spotlight. With Avantoria, you can shape the journey of your existing customer base even when they are not at your shop. As other businesses will do the same for you, you will ensure inbounding visitors will have an experience as delightful as it should be.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">find out more</a> "
               },
               {
@@ -225,7 +225,7 @@
                 "title": "Loyalty at its best.",
                 "contentAlign": "center",
                 "overlay": "true",
-                "text": "Avantoria will help you bring loyalty to the next level. Thanks to Avantoria you can connect with your customers no matter where they are. Provide valuable recommendations, curate a personal relationship or offer reward points - your options to establish a real relationship with your customers are endless.<br>",
+                "text": "Avantoria will help you bring loyalty to the next level. With your business, you have already become a trusted advisor for your customer. Needless to say your customers would much rather receive your recommendations when traveling than from any other individual they haven't met before. With Avantoria this becomes possible in an easy and intuitive way. So even when your customers are currently on the road, it is you who shapes their journey.&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Find out More</a> "
               },
               {
@@ -237,7 +237,7 @@
                 "title": "A new way of Marketing",
                 "contentAlign": "center",
                 "overlay": "true",
-                "text": "There is a variety of apps that show your cafe to tourists, but if you have any input on them finding your place at all it is through purchased advertising. &nbsp;Avantoria is dedicated to connecting you with your existing and new customers in a completely new way, geared towards personalization and interaction. You will finally reach particularly those individuals that are looking for superior quality in a unique environment.&nbsp;",
+                "text": "There is a variety of apps that show your cafe to consumers, but if you have any real input on them finding your place at all it is through purchased advertising. &nbsp;Avantoria is dedicated to connecting you with your existing and new customers in a completely new way, geared towards personalization and interaction. You will finally reach the quality customers that are looking for a superior experience in a unique environment.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Find out More</a> "
               }
             ]
@@ -509,7 +509,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75,
             "showIcons": true,
-            "iconsColor": "#29d9c2",
+            "iconsColor": "#336a86",
             "icon1": "fa-tags",
             "icon2": "fa-bullhorn",
             "icon3": "fa-calendar",
@@ -554,7 +554,7 @@
               "color": "#333333"
             },
             "i": {
-              "color": "#29d9c2 !important"
+              "color": "#336a86 !important"
             }
           }
         },
@@ -587,7 +587,7 @@
           "title2": "Less effort",
           "title3": "easy &amp; Fun",
           "text1": "You see recommendations of your selected experts, friends and family. You are in control and won't be annoyed with random feedback or postings of bots.",
-          "text2": "Lorem ipsum dolor sit amet adipiscing elit sed orci dictum sagittis libero vitae auctor elit. Praesent accumsan mauris eget tortor auctor efficitur nunc iaculis nunc.",
+          "text2": "Wouldn't it be great if the day had 30 hours?&nbsp;",
           "text3": "Lorem ipsum dolor sit amet adipiscing elit sed orci dictum sagittis libero vitae auctor elit. Praesent accumsan mauris eget tortor auctor efficitur nunc iaculis nunc.",
           "alias": "unicore/components",
           "_tags": [
