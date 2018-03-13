@@ -222,3 +222,23 @@ p {
 #msg-box6-1f H1 {
   color: #073e59;
 }
+#dropdown-menu-1g .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1g .nav .link,
+#dropdown-menu-1g .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-1g .navbar,
+#dropdown-menu-1g .dropdown-menu {
+  background: #0a364b;
+}
+#dropdown-menu-1g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1g .dropdown-menu a:hover,
+#dropdown-menu-1g .dropdown-menu a:focus {
+  background: #082939;
+}
+#dropdown-menu-1g .navbar-toggler {
+  color: #ffffff;
+}
