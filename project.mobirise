@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "B2B Landing Page - Be Found",
+    "name": "B2B Landing Page - Be Found-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "unicore",
@@ -18,12 +18,15 @@
       "additionalSetColors": [
         "#222222",
         "#ffffff",
-        "#333333"
+        "#333333",
+        "#555555",
+        "#073e59",
+        "#0a364b"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 47,
+    "uniqCompNum": 52,
     "versionPublish": "4.6.6"
   },
   "pages": {
@@ -48,10 +51,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333"
+              "background": "#0a364b"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#082939"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -62,13 +65,13 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "transparent": true,
-            "bgColor": "#333",
+            "transparent": false,
+            "bgColor": "#0a364b",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -79,7 +82,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AVANTORIA</a>",
           "_tags": [
             "Theme"
           ],
@@ -107,17 +110,17 @@
             "overlayOpacity": 0.25,
             "showIcons": true,
             "iconsColor": "#fff",
-            "icon1": "fa-comments",
-            "icon2": "fa-users",
+            "icon1": "fa-trophy",
+            "icon2": "fa-comments",
             "icon3": "fa-plane",
-            "icon4": "fa-trophy",
+            "icon4": "fa-group",
             "showTitles": true
           },
-          "title": "Enthusiasts<b> </b>should enjoy<b>&nbsp;</b>a superior<b>&nbsp;experience</b>.<b> </b>Always.",
-          "title1": "Relevant Feedback",
-          "title2": "Foster the Community",
-          "title3": "Attract Travelers",
-          "title4": "Curate Experiences",
+          "title": "Enthusiasts<b> </b>should enjoy<b>&nbsp;</b>a superior<b>&nbsp;experience</b>.<b> </b>At every destination.",
+          "title1": "&nbsp;Curate Experiences",
+          "title2": "Relevant Feedback",
+          "title3": "Attract travelers",
+          "title4": "Foster the community",
           "text": "Avantoria is a platform that is disrupting the way how people travel and discover the best places in the world.",
           "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Find out more<i class=\"fa fa-shopping-basket\"></i></a> ",
           "alias": "unicore/components",
@@ -155,8 +158,8 @@
           "title2": "who is it for",
           "title3": "why avantoria",
           "title4": "Flashy Look",
-          "text1": "Avantoria is <b>a platform</b>&nbsp;that helps your customers find splendid places through relevant feedback - yours. By suggesting your favorite cafes, restaurants or other businesses to your customers, you can ensure your customer enjoys an experience as great as the one in your store no matter where they are traveling to.&nbsp;",
-          "text2": "Avantoria is perfect <b>for small businesses</b> who seek a platform that allows them to engage with their most valuable customers in a new way, and who are looking for a new type of recommendation system. It helps businesses be found by customers that fit their target audience and allows to build a loyal community both with customers as well as other businesses.",
+          "text1": "Avantoria is <b>a platform</b>&nbsp;that helps your customers find splendid places through relevant feedback; yours. By suggesting your favorite cafes, restaurants or other businesses to your customers, you can ensure they enjoy an experience as great as the one in your store no matter where they are traveling to.&nbsp;",
+          "text2": "Avantoria is perfect <b>for small businesses</b> who seek to deepen the community of coffee enthusiasts and are tired of the existing recommendation systems where they get lost in the unfiltered amount of places. Avantoria helps businesses be found by customers that fit their target audience and fosters a community of loyal customers and other businesses.",
           "text3": "The key differences to existing search and recommendation platforms are:<br>- A <b>personalized</b> <b>community</b> of recommenders<br>- Only customers themselves decide whom &nbsp; &nbsp; &nbsp; &nbsp;they want feedback from<br>- No<b> unqualified ratings</b> such as random &nbsp;feedback, bots etc.<br>- Be found by <b>quality customers </b>from your partners and other businesses<br><br>",
           "text4": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.",
           "alias": "unicore/components",
@@ -325,11 +328,11 @@
           "subtitle3": "SETUP YOUR RECOMMENDATIONS",
           "subtitle4": "CONNECT WITH YOUR CUSTOMERS",
           "subtitle5": "EXPLORE ALL BENEFITS OF A LOYAL COMMUNITY",
-          "text1": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
-          "text2": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
-          "text3": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
-          "text4": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
-          "text5": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
+          "text1": "First things first. You create a profile on Avantoria, which will be the basis for all your activities and your connections on the platform.",
+          "text2": "Connecting with your social media accounts has multiple benefits. While you are already following your favorite cafes, restaurant and other businesses, your followers are enthusiastic about your products and services, and are just waiting for benefiting from your expertise a little further.&nbsp;",
+          "text3": "Setting up your recommendations is the basis for Avantoria's filtered feedback. Your link to your social media account already set the basis, and all the cafes, restaurants and other businesses you are following are already saved as potential recommendations. Browse through them one more time to decide whether your customers really should visit this place when they are traveling, and add other favorites that may not have a social media account.&nbsp;",
+          "text4": "Now that you have set up your profile, your customers can connect with you. Now your customers have access to your favorite places in your hometown and in other cities, so that no matter where they are traveling to they can enjoy a delighting experience at the high quality small businesses in town.&nbsp;",
+          "text5": "With your recommendations you have set up you are shaping your customers journeys no matter where they are. Besides that your shop finally receives the exposure it deserves as other small businesses will recommend you, helping attract travelers craving a superior experience to you.&nbsp;",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -644,6 +647,113 @@
           ],
           "_name": "header4",
           "_anchor": "header4-18"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "FAQ",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#0a364b"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#082939"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#0a364b",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Overview</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Features</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AVANTORIA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-1b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "FREQUently asked questions",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#msg-box6-1f\" data-core=\"\" href=\"#collapseOnemsg-box6-1f\" aria-expanded=\"true\" aria-controls=\"collapseOne\">HOW MUCH EFFORT IS IT FOR ME?</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#msg-box6-1f\" data-core=\"\" href=\"#collapseTwomsg-box6-1f\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">WHAT IS IN IT FOR ME?</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#msg-box6-1f\" data-core=\"\" href=\"#collapseThreemsg-box6-1f\" aria-expanded=\"true\" aria-controls=\"collapseThree\">how do you ensure there are no fake or unqualified ratings?</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#msg-box6\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#msg-box6\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#msg-box6\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>It is not hard to picture your daily battle with slack resources: in the morning and afternoon it is people, in the evening it is time, and for all other hours during the day it is both. That is why we want to create the far opposite of another burden for you and rather want to make it as easy and fast as possible. There is no need for constantly staying online in order to answer messages, watch ratings or to share pictures. Instead you engage with your customers through a fully automated system that provides your recommendations to your customers in the city they are currently at. Once you created your profile, connected with your customers and set up your recommendations, alas select your favorite places, you have completed all necessary steps.&nbsp;</p>",
+          "text2": "Avantoria is dedicated to creating a community. A community of enthusiasts with a passion for superior, unique experiences. You will finally be able to shape the experience of your customers beyond your place by complementing their journey with a marvelous discovery. This will bind your customers to you and increase their loyalty.&nbsp;<br>In turn, other businesses you already have an established relationship with or who have had the chance to enjoy the offering, will recommend you to their customers. Your store traffic will increase with, even better, the audience you are targeting.&nbsp;",
+          "text3": "<p>We don't believe in the rating system of current engines, and decided to eliminate this option entirely. Nevertheless with the unbelievable amount of places per city, recommendations (not ratings) help us narrow down our search. Yet it is the valuable recommendations that make for a wonderful experience.&nbsp;</p><p><span style=\"background-color: inherit;\">That is why we came up with the recommendation system from enthusiasts to enthusiasts. We let the customers decide whom they want to seek recommendations from, because we think it is the individual who can decide best whose feedback really provides value. So how do we ensure there are no fake or unqualified ratings? We are eliminating that function. entirely.&nbsp;</span></p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-1f",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px",
+              "color": "#555555"
+            },
+            "H1": {
+              "color": "#073e59"
+            }
+          }
         }
       ]
     }
