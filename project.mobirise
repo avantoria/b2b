@@ -75,7 +75,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-u\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"#bottom\">Sign Up for free</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -126,7 +126,7 @@
           "title3": "Attract travelers",
           "title4": "Foster the community",
           "text": "Avantoria is a platform that is disrupting the way how people travel and discover the best places in the world.",
-          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Find out more<i class=\"fa fa-shopping-basket\"></i></a> ",
+          "buttons": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Sign up for free<i class=\"fa fa-shopping-basket\"></i></a> ",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -197,7 +197,7 @@
                 "contentAlign": "right",
                 "overlay": "true",
                 "text": "Not every customer shares the same values that you and your business stand for. Current search apps provide platforms for unfiltered feedback. Avantoria differs by only showing relevant feedback that is personalized and relevant. By doing so we guarantee that you will be found by the most quality customers you could imagine.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">find out more</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR FREE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
@@ -209,7 +209,7 @@
                 "contentAlign": "right",
                 "overlay": "true",
                 "text": "We at Avantoria believe that the way ratings at current search engines work do not provide much value. That is why we are eliminating this scale completely, and focus only on the recommendations that truly matter. By creating a recommendation system from coffee enthusiasts to coffee enthusiasts, Avantoria ensures a superior and delighting experience in an intuitive way.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">find out more</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR FREE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
@@ -221,7 +221,7 @@
                 "contentAlign": "center",
                 "overlay": "true",
                 "text": "Avantoria is disrupting the way small businesses reach out to customers and receive the exposure they deserve. By creating a community that can finally exchange all the favorite places in an intuitive way, Avantoria is establishing a platform that puts small, local businesses into the spotlight. With Avantoria, you can shape the journey of your existing customer base even when they are not at your shop. As other businesses will do the same for you, you will ensure inbounding visitors will have an experience as delightful as it should be.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">find out more</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR FREE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
@@ -233,7 +233,7 @@
                 "contentAlign": "center",
                 "overlay": "true",
                 "text": "Avantoria will help you bring loyalty to the next level. With your business, you have already become a trusted advisor for your customer. Needless to say your customers would much rather receive your recommendations when traveling than from any other individual they haven't met before. With Avantoria this becomes possible in an easy and intuitive way. So even when your customers are currently on the road, it is you who shapes their journey.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Find out More</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR FREE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
@@ -245,7 +245,7 @@
                 "contentAlign": "center",
                 "overlay": "true",
                 "text": "There is a variety of apps that show your cafe to consumers, but if you have any real input on them finding your place at all it is through purchased advertising. &nbsp;Avantoria is dedicated to connecting you with your existing and new customers in a completely new way, geared towards personalization and interaction. You will finally reach the quality customers that are looking for a superior experience in a unique environment.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Find out More</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">sign up for free</a> "
               }
             ]
           },
@@ -691,7 +691,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-u\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"#bottom\">Sign Up for free</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -798,7 +798,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-u\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"#bottom\">Sign Up for free</a></li>",
           "logo": {
             "image": {
               "active": true,
