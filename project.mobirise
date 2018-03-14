@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "B2B Landing Page - Be Found-clone",
-    "currentPage": "index.html",
+    "currentPage": "about-us.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -655,7 +655,7 @@
         }
       ]
     },
-    "page1.html": {
+    "faq.html": {
       "settings": {
         "title": "FAQ",
         "order": 1
@@ -763,7 +763,7 @@
         }
       ]
     },
-    "page2.html": {
+    "about-us.html": {
       "settings": {
         "title": "About Us",
         "order": 2
