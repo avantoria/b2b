@@ -369,9 +369,9 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Sign up for free</a>",
           "form": {
             "title": "SUBSCRIBE",
-            "action": "rreichert@gmail.com",
+            "action": "mreichert@avantoria.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for you interest in Avantoria. We will be in touch shortly."
             },
             "fields": {
               "name": {
@@ -628,9 +628,9 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Sign up for free</a>",
           "form": {
             "title": "SUBSCRIBE",
-            "action": "rreichert@gmail.com",
+            "action": "mreichert@avantoria.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for you interest in Avantoria. We will be in touch shortly."
             },
             "fields": {
               "name": {
