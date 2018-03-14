@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 59,
+    "uniqCompNum": 60,
     "versionPublish": "4.6.6",
     "favicon": "",
     "noImageResize": "",
@@ -529,7 +529,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-12-at-9.50.04-pm-363x733.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-03-13-at-10.00.31-pm-365x738.png",
               "link": "",
               "alt": "",
               "title": ""
