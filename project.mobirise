@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "B2B Landing Page - Be Found-clone",
-    "currentPage": "about-us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -455,7 +455,7 @@
           "title2": "Customer Community",
           "title3": "Attract travelers",
           "title4": "Curate Experiences",
-          "text1": "You receive feedback by customers that share your values and matter the most to you. Say good-bye to feedback of bots or random customers.",
+          "text1": "You provide feedback to customers that share your values and matter the most to you, and vice versa you are being recommended to customers by other businesses. Say good-bye to feedback of bots or random customers.",
           "text2": "As a trusted expert to your community, you are shaping their experiences around the world. You can bond with your customers and foster loyalty.",
           "text3": "You refer your customers to other businesses and they will do the same for you. Through this you are reaching non-local customers with similar taste.",
           "text4": "Big chains are able to create a consistent offering to their customer base world wide. By creating your own community, you can do that even better.",
@@ -594,9 +594,9 @@
           "title1": "Better experiences",
           "title2": "Less effort",
           "title3": "easy &amp; Fun",
-          "text1": "You see recommendations of your selected experts, friends and family. You are in control and won't be annoyed with random feedback or postings of bots.",
-          "text2": "Wouldn't it be great if the day had 30 hours?&nbsp;",
-          "text3": "Lorem ipsum dolor sit amet adipiscing elit sed orci dictum sagittis libero vitae auctor elit. Praesent accumsan mauris eget tortor auctor efficitur nunc iaculis nunc.",
+          "text1": "Customers see recommendations of their selected experts, friends and family. They are in control and and won't be averse to your business because of unqualified ratings or bots. .",
+          "text2": "Connect with your customers in an easy, effecient and seamless way. Customer engagement does not have to be time consuming.&nbsp;",
+          "text3": "See your community grow and aspire your customers by shaping their in an easy and fun way.&nbsp;",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
