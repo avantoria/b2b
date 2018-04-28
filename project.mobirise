@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "B2B Landing Page - Be Found-clone",
-    "currentPage": "faq.html",
+    "name": "B2B Landing Page - Be Found",
+    "currentPage": "index.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -26,14 +26,15 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 60,
-    "versionPublish": "4.6.6",
+    "uniqCompNum": 71,
+    "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-115432674-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-115432674-1');\r\n</script>\r\n\r\n",
     "siteUrl": "http://www.avantoria.com",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -57,10 +58,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#0a364b"
+              "background": "#f52549"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#082939"
+              "background": "#f41139"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -71,8 +72,8 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
-            "bgColor": "#0a364b",
+            "transparent": true,
+            "bgColor": "#f52549",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -99,13 +100,14 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
+            "showMedia": true,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/coffee-2-2000x1331.jpg",
-            "parallax": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-19-1620x1080.jpg",
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
             "bgVideoRadio": false,
@@ -113,29 +115,436 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.25,
-            "showIcons": true,
-            "iconsColor": "#fff",
-            "icon1": "fa-trophy",
-            "icon2": "fa-comments",
-            "icon3": "fa-plane",
-            "icon4": "fa-group",
-            "showTitles": true
+            "overlayColor": "#555555",
+            "overlayOpacity": "0.6"
           },
-          "title": "Enthusiasts<b> </b>should enjoy<b>&nbsp;</b>a superior<b>&nbsp;experience</b>.<b> </b>At every destination.",
-          "title1": "&nbsp;Curate Experiences",
-          "title2": "Relevant Feedback",
-          "title3": "Attract travelers",
-          "title4": "Foster the community",
-          "text": "Avantoria is a platform that is disrupting the way how people travel and discover the best places in the world.",
-          "buttons": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn mbr-title-font btn-lg btn-success\" data-toolbar=\"-mbrBtnMove\">Sign up for free<i class=\"fa fa-shopping-basket\"></i></a> ",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "pull-left",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/value-prop-pic-3-792x650.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "Increasing Customer Loyalty Has Never Been So Easy",
+          "text": "Retain your customers by helping them discover your favorite restaurants through a simple &amp; fast app.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Purchase Now <i class=\"fa fa-shopping-cart\"></i></a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header7",
-          "_anchor": "header7-o"
+          "_name": "header18",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header18-1o"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Introducing Avantoria",
+          "text": "Avantoria is an app&nbsp;",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box11",
+          "_anchor": "msg-box11-1x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitles": true,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Tab Content",
+          "title1": "Tab heading 1",
+          "title2": "Tab heading 2",
+          "title3": "Tab heading 3",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"true\">Responsive</a></li><li><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\">Creative</a></li><li><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\">Animated</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
+          "text1_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text1_2": "Praesent euismod quis eros a facilisis. Donec magna lacus, consectetur sed tortor in, imperdiet porta nulla. In elementum gravida est, ut porttitor tortor viverra ut. Ut orci justo, maximus nec turpis vel, laoreet finibus elit.",
+          "text2_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text2_2": "Praesent euismod quis eros a facilisis. Donec magna lacus, consectetur sed tortor in, imperdiet porta nulla. In elementum gravida est, ut porttitor tortor viverra ut. Ut orci justo, maximus nec turpis vel, laoreet finibus elit.",
+          "text3_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text3_2": "Praesent euismod quis eros a facilisis. Donec magna lacus, consectetur sed tortor in, imperdiet porta nulla. In elementum gravida est, ut porttitor tortor viverra ut. Ut orci justo, maximus nec turpis vel, laoreet finibus elit.",
+          "text4_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text4_2": "Praesent euismod quis eros a facilisis. Donec magna lacus, consectetur sed tortor in, imperdiet porta nulla. In elementum gravida est, ut porttitor tortor viverra ut. Ut orci justo, maximus nec turpis vel, laoreet finibus elit.",
+          "text5_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text5_2": "Praesent euismod quis eros a facilisis. Donec magna lacus, consectetur sed tortor in, imperdiet porta nulla. In elementum gravida est, ut porttitor tortor viverra ut. Ut orci justo, maximus nec turpis vel, laoreet finibus elit.",
+          "text6_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6_2": "Praesent euismod quis eros a facilisis. Donec magna lacus, consectetur sed tortor in, imperdiet porta nulla. In elementum gravida est, ut porttitor tortor viverra ut. Ut orci justo, maximus nec turpis vel, laoreet finibus elit.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1y"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "elements": "3",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5,
+            "showIcons": true,
+            "iconsColor": "@primaryColor",
+            "icon1": "fa-thumbs-up",
+            "icon2": "fa-trophy",
+            "icon3": "fa-paint-brush",
+            "icon4": ""
+          },
+          "title1": "Simple And Fast<br>",
+          "title2": "Trustful Recommendations Only<br>",
+          "title3": "Benefit From Other Recommendations",
+          "title4": "",
+          "text1": "Connecting with your customer base is simple and fast. All you need to do is to set up your business profile and connect with social media.&nbsp;",
+          "text2": "Finally your customers get to benefit from your expertise when they are travelling. Inspire them with exciting recommendations and create a trustful relationship that will drive revenue.&nbsp;",
+          "text3": "Other restaurants will recommend your restaurant to their clients, helping you attract your target audience that will enjoy your offering.&nbsp;",
+          "text4": "",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "H4": {
+              "color": "#f44336"
+            }
+          },
+          "_anchor": "features1-1u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showMedia": true,
+            "bgImageRadio": false,
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/places-visited-wide-bg-1080x738.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "EXPLORE THE UNIMAGINEABLE&nbsp;",
+          "text": "Prepare for a trip in a way that has not been possible before. Add destinations and see all the places your favorite bloggers, chefs and your other experts enjoy in one single app.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"faq.html\">SHOW ME MORE</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "color": "#f44336"
+            }
+          },
+          "_anchor": "msg-box5-1p"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showMedia": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/your-network-wide-bg-1080x745.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "GREAT RECOMMENDATIONS",
+          "text": "Rather than ratings from foreigners that are not familiar with your preferences, we believe it is your favorite experts, bloggers and friends who know the best places and will delight you with great recommendations.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"faq.html\">SHOW ME MORE</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box4-1q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showMedia": true,
+            "bgImageRadio": false,
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/places-visited-wide-bg-1080x738.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "EXPLORE THE UNIMAGINEABLE&nbsp;",
+          "text": "Prepare for a trip in a way that has not been possible before. Add destinations and see all the places your favorite bloggers, chefs and your other experts enjoy in one single app.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"faq.html\">SHOW ME MORE</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "color": "#f44336"
+            }
+          },
+          "_anchor": "msg-box5-1s"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showMedia": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/profile-wide-bg-1080x732.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "YOUR PROFILE, JUST DIFFERENT",
+          "text": "By saving all of your food journeys on a global map, your profile becomes a world of discoveries, of bucked lists and countries. See where your trips have already taken you and explore what is still outstanding.  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">SHOW ME MORE</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "32px",
+              "color": "#f44336"
+            }
+          },
+          "_anchor": "msg-box4-1v"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showMedia": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/your-network-wide-bg-1080x745.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "GREAT RECOMMENDATIONS",
+          "text": "Rather than ratings from foreigners that are not familiar with your preferences, we believe it is your favorite experts, bloggers and friends who know the best places and will delight you with great recommendations.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"faq.html\">SHOW ME MORE</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box4-1r"
         },
         {
           "_params": {
@@ -178,93 +587,6 @@
           "_styles": {
             "P": {
               "text-align": "left"
-            }
-          }
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1686x1080.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Be found by quality customers.",
-                "contentAlign": "right",
-                "overlay": "true",
-                "text": "Not every customer shares the same values that you and your business stand for. Current search apps provide platforms for unfiltered feedback. Avantoria differs by only showing relevant feedback that is personalized and relevant. By doing so we guarantee that you will be found by the most quality customers you could imagine.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR FREE</a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Eliminate unqualified ratings.",
-                "contentAlign": "right",
-                "overlay": "true",
-                "text": "We at Avantoria believe that the way ratings at current search engines work do not provide much value. That is why we are eliminating this scale completely, and focus only on the recommendations that truly matter. By creating a recommendation system from coffee enthusiasts to coffee enthusiasts, Avantoria ensures a superior and delighting experience in an intuitive way.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR FREE</a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "A community for afficionados.",
-                "contentAlign": "center",
-                "overlay": "true",
-                "text": "Avantoria is disrupting the way small businesses reach out to customers and receive the exposure they deserve. By creating a community that can finally exchange all the favorite places in an intuitive way, Avantoria is establishing a platform that puts small, local businesses into the spotlight. With Avantoria, you can shape the journey of your existing customer base even when they are not at your shop. As other businesses will do the same for you, you will ensure inbounding visitors will have an experience as delightful as it should be.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR FREE</a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Loyalty at its best.",
-                "contentAlign": "center",
-                "overlay": "true",
-                "text": "Avantoria will help you bring loyalty to the next level. With your business, you have already become a trusted advisor for your customer. Needless to say your customers would much rather receive your recommendations when traveling than from any other individual they haven't met before. With Avantoria this becomes possible in an easy and intuitive way. So even when your customers are currently on the road, it is you who shapes their journey.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR FREE</a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "A new way of Marketing",
-                "contentAlign": "center",
-                "overlay": "true",
-                "text": "There is a variety of apps that show your cafe to consumers, but if you have any real input on them finding your place at all it is through purchased advertising. &nbsp;Avantoria is dedicated to connecting you with your existing and new customers in a completely new way, geared towards personalization and interaction. You will finally reach the quality customers that are looking for a superior experience in a unique environment.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg mbr-title-font btn-success\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">sign up for free</a> "
-              }
-            ]
-          },
-          "articleLayout": false,
-          "alias": "unicore/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-3",
-          "_styles": {
-            "H1": {
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "center"
             }
           }
         },
@@ -688,8 +1010,8 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
-            "bgColor": "#0a364b",
+            "transparent": true,
+            "bgColor": "#f52549",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -796,8 +1118,8 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
-            "bgColor": "#0a364b",
+            "transparent": true,
+            "bgColor": "#f52549",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff"
