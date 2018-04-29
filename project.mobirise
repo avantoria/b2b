@@ -6,11 +6,11 @@
       "name": "unicore",
       "title": "Unicore",
       "styling": {
-        "primaryColor": "#336a86",
+        "primaryColor": "#f44336",
         "successColor": "#7ac673",
         "infoColor": "#336a86",
         "warningColor": "#faaf40",
-        "dangerColor": "#f97352",
+        "dangerColor": "#f44336",
         "titleFont": "Montserrat",
         "textFont": "Raleway",
         "isSquareButtons": false
@@ -21,12 +21,13 @@
         "#333333",
         "#555555",
         "#073e59",
-        "#0a364b"
+        "#0a364b",
+        "#f97352"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 84,
+    "uniqCompNum": 88,
     "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
@@ -58,10 +59,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#f52549"
+              "background": "#f44336"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f41139"
+              "background": "#f33123"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -73,7 +74,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#f52549",
+            "bgColor": "#f44336",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -257,16 +258,16 @@
             }
           },
           "title": "Tab Content",
-          "title1": "Tab heading 1",
-          "title2": "Tab heading 2",
-          "title3": "Tab heading 3",
+          "title1": "Increase loyalty",
+          "title2": "Benefit from tourists",
+          "title3": "Attract new visitors",
           "title4": "Tab heading 4",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"active\">ATTRACT TRAVELERS<a class=\"mbr-title-font text-danger\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"true\">Animated</a></li><li class=\"\"><a class=\"mbr-title-font text-danger\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"false\">Creative</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"false\">Responsive</a></li><li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"true\">Animated</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"false\">Creative</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
           "text1_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text2_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "text3_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text3_1": "85 % of all individuals we surveyed cannot find what they are looking for on existing restaurant discovery apps - like your restaurant. Our customized approach changes that. Start getting the right visitors now!",
           "text4_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text5_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text6_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
@@ -275,12 +276,7 @@
             "Theme"
           ],
           "_name": "content8",
-          "_anchor": "content8-1z",
-          "_styles": {
-            "LI": {
-              "color": "#f44336"
-            }
-          }
+          "_anchor": "content8-2f"
         },
         {
           "_params": {
@@ -299,7 +295,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": "0.5"
           },
-          "title": "<span style=\"font-weight: normal;\">We deliver the data you want.</span>",
+          "title": "<span style=\"font-weight: normal;\">We deliver relevant data.</span>",
           "text": "Magna eget nunc iaculis dolor amet nunc.",
           "alias": "unicore/components",
           "_tags": [
@@ -341,12 +337,12 @@
             "icon2": "fa-css3",
             "icon3": "fa-hand-pointer-o"
           },
-          "title1": "RESPONSIVE DESIGN",
-          "title2": "CLEAN CODED",
-          "title3": "FULLY CUSTOMIZABLE",
-          "text1": "Lorem ipsum dolor sit amet adipiscing elit sed orci dictum sagittis libero vitae auctor elit. Praesent accumsan mauris eget tortor auctor efficitur nunc iaculis nunc.",
-          "text2": "Lorem ipsum dolor sit amet adipiscing elit sed orci dictum sagittis libero vitae auctor elit. Praesent accumsan mauris eget tortor auctor efficitur nunc iaculis nunc.",
-          "text3": "Lorem ipsum dolor sit amet adipiscing elit sed orci dictum sagittis libero vitae auctor elit. Praesent accumsan mauris eget tortor auctor efficitur nunc iaculis nunc.",
+          "title1": "Advanced analytics",
+          "title2": "targeted marketing",
+          "title3": "A Better netWORK",
+          "text1": "Get relevant data from us to make informed decisions when shaping your offering and forecasting demand.",
+          "text2": "Reach the right customers at the right time with the right offers. Say goodbye to promotions that will not do anything for your revenue&nbsp;",
+          "text3": "Take advantage of the referrals from other businesses and create a network for customized marketing and best practice exchange.&nbsp;",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -558,9 +554,9 @@
             "overlayColor": "#151515",
             "overlayOpacity": "0.8"
           },
-          "title1": "Get started now.",
-          "text": "Create a community with your most loyal customers today and elevate their experiences world-wide to a new level.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Request a demo</a>",
+          "title1": "Join our network!",
+          "text": "Benefit from a unique restaurant recommendation system and increase revenue now.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">request a demo</a>",
           "form": {
             "title": "SUBSCRIBE",
             "action": "mreichert@avantoria.com",
@@ -621,7 +617,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#f52549",
+            "bgColor": "#f44336",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -729,7 +725,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#f52549",
+            "bgColor": "#f44336",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff"
