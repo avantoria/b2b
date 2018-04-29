@@ -205,6 +205,9 @@ p {
 #pricing-table1-2b H1 {
   color: #f44336;
 }
+#pricing-table1-2b .pricing__item__popular > .popular {
+  color: #ffffff;
+}
 
 #dropdown-menu-1b .hide-buttons [data-button] {
   display: none !important;

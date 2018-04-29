@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 88,
+    "uniqCompNum": 89,
     "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
@@ -258,16 +258,16 @@
             }
           },
           "title": "Tab Content",
-          "title1": "Increase loyalty",
+          "title1": "Increase loyalty of existing customers",
           "title2": "Benefit from tourists",
           "title3": "Attract new visitors",
           "title4": "Tab heading 4",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"false\">Responsive</a></li><li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"true\">Animated</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"false\">Creative</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
-          "text1_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "text2_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "text3_1": "85 % of all individuals we surveyed cannot find what they are looking for on existing restaurant discovery apps - like your restaurant. Our customized approach changes that. Start getting the right visitors now!",
+          "tabTitle": "<li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"true\">Responsive</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"false\">Animated</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"false\">Creative</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
+          "text1_1": "72 % of customers visit a business only after reading a review. But current reviews come from foreigners, leading to lack of realibility and of trust.&nbsp;",
+          "text2_1": "In 2016 more than 2.2 Billion Americans travelled for private journeys and business reasons. Have you shaped their food journey and have you drawn their attention to your restaurant? It's time to take action the easy way.&nbsp;",
+          "text3_1": "85 % of all individuals we surveyed cannot find what they are looking for on existing restaurant discovery apps - like your restaurant. Our customized approach changes that. Start getting the right visitors now.",
           "text4_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text5_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text6_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
@@ -419,21 +419,21 @@
           "currency1": "",
           "price1": "",
           "period1": "",
-          "list1": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">Sign up for free&nbsp;</li><li class=\"pricing__feature\">Save your personal preferences for a customized search</li><li class=\"pricing__feature\"><span style=\"font-size: 16px;\">Connect with your favorite experts, bloggers and friends<br></span></li></ul>",
+          "list1": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">Sign up for free&nbsp;</li><li class=\"pricing__feature\">Save your personal preferences for a customized search</li><li class=\"pricing__feature\"><span style=\"font-size: 16px;\"><br></span></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"notready.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">Sign up now</a>",
           "title2": "No licensing fee",
           "text2": "",
           "currency2": "",
           "price2": "",
           "period2": "",
-          "list2": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\"><span style=\"font-size: 16px;\">Discover only those places that match your preferences</span></li><li class=\"pricing__feature\"><span style=\"font-size: 16px;\">Find out what your recommenders enjoy about these places</span></li><li class=\"pricing__feature\"><span style=\"font-size: 16px;\">Have a great experience</span></li></ul>",
+          "list2": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\"><span style=\"font-size: 16px;\">We understand that smart decision making requires flexibiltiy in accessing the data. That's why we let you use as many devices from as many locations as you want.&nbsp;</span></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"ourfavorits.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">Check our favorites</a>",
           "title3": "Flexibility guaranteed",
           "text3": "",
           "currency3": "",
           "price3": "",
           "period3": "",
-          "list3": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\"><span style=\"font-size: 16px;\">Share your secret gems to your network</span></li><li class=\"pricing__feature\"><span style=\"font-size: 16px;\">Help your friends have splendid experiences</span></li><li class=\"pricing__feature\">Benefit from a community that shares your values</li></ul>",
+          "list3": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\"><span style=\"font-size: 16px;\">No strings attached. Our packages give you the flexibility you need.&nbsp;</span></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"faq.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "title4": "SUPER",
           "text4": "Perfect for small less than 10 team",
@@ -462,18 +462,20 @@
             },
             "H1": {
               "color": "#f44336"
+            },
+            ".pricing__item__popular > .popular": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "pricing-table1-2b"
         },
         {
           "_params": {
-            "showTitle": true,
-            "showImages": true,
+            "showIcon": true,
             "showAuthorName": true,
-            "bgImageRadio": false,
             "paddingTop": 2,
             "paddingBottom": 2,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
@@ -486,53 +488,18 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "media1": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5.jpg",
-              "active": true
-            }
-          },
-          "media2": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/6.jpg",
-              "active": true
-            }
-          },
-          "media3": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/7.jpg",
-              "active": true
-            }
-          },
-          "media4": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5.jpg",
-              "active": true
-            }
-          },
-          "title": "What our customers say",
-          "text1_1": "Unicore is hands down the most flexible and enjoyable HTML template. It was built with the awesome bootstrap framework and with multiple layouts and more.",
-          "text1_2": "Mark Dave - Web Design",
-          "text2_1": "Unicore is hands down the most flexible and enjoyable HTML template. It was built with the awesome bootstrap framework and with multiple layouts and more.",
-          "text2_2": "John Doe - UX Designer",
-          "text3_1": "Unicore is hands down the most flexible and enjoyable HTML template. It was built with the awesome bootstrap framework and with multiple layouts and more.",
-          "text3_2": "Jackie Doe - Front End",
-          "text4_1": "Unicore is hands down the most flexible and enjoyable HTML template. It was built with the awesome bootstrap framework and with multiple layouts and more.",
-          "text4_2": "Mark Dave - Web Design",
+          "text1_1": "Finally I don't have to ask around for recommendations in my social community. Avantoria enables me to benefit from the experience of my bloggers and favorite restaurants whenever I am on the road.&nbsp;",
+          "text1_2": "SUSAN Dave&nbsp;",
+          "text2_1": "I love browsing online for new places in my hometown and for travels. But many of the places on search engines turn out to be a disappointment. With Avantoria those disappointments are finally over, and browsing for new places is just so much more fun.&nbsp;",
+          "text2_2": "VALENTINA DOE",
+          "text3_1": "I am travelling a lot for business and don't have the time to search for great places, so I often end up at the chains because I know what to expect. Avantoria is showing me the best places near me, allowing me to explore local businesses with the same if not even superior quality.",
+          "text3_2": "TIM FIELDS",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-22"
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-2g"
         },
         {
           "_params": {
