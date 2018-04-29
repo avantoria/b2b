@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 
 
 .btn.btn-primary {
@@ -166,46 +167,46 @@ p {
 #dropdown-menu-1a .navbar-toggler {
   color: #ffffff;
 }
-#header18-1o H3 {
-  text-align: left;
-  font-size: 36px;
-}
 #features1-1u H4 {
   color: #f44336;
 }
-#msg-box5-1p H3 {
-  font-size: 36px;
-  color: #f44336;
-}
-#msg-box4-1v H3 {
-  text-align: left;
-  font-size: 32px;
-  color: #f44336;
-}
-#msg-box5-1s H3 {
-  font-size: 36px;
-  color: #f44336;
-}
-#features4-u P {
-  text-align: left;
-}
-#msg-box18-k H3 {
+#msg-box18-25 H3 {
   color: #222222;
 }
-#msg-box18-p H3 {
+#msg-box18-25 SPAN {
+  font-size: 46px;
+}
+#content8-1z LI {
+  color: #f44336;
+}
+#msg-box18-24 H3 {
   color: #222222;
 }
-#msg-box18-10 H3 {
+#msg-box18-24 SPAN {
+  font-size: 46px;
+}
+#features6-20 i {
+  color: #f44336 !important;
+}
+#msg-box18-23 H3 {
   color: #222222;
 }
-#header22-7 H4 {
-  color: #333333;
+#msg-box18-23 SPAN {
+  font-size: 46px;
 }
-#header22-7 P {
-  color: #333333;
+#pricing-table1-2b SPAN {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
 }
-#header22-7 i {
-  color: #336a86 !important;
+#pricing-table1-2b UL {
+  font-size: 16px;
+}
+#pricing-table1-2b H3 {
+  text-align: center;
+  color: #f44336;
+}
+#pricing-table1-2b H1 {
+  color: #f44336;
 }
 
 #dropdown-menu-1b .hide-buttons [data-button] {
