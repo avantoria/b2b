@@ -118,8 +118,8 @@
             "overlayColor": "#555555",
             "overlayOpacity": 0.65
           },
-          "title1": "Increasing Loyalty and New Visits Has Never Been That Easy",
-          "text": "Retain your existing customers and captivate new visitors through a unique restaurant discovery app",
+          "title1": "Increasing Loyalty and Traffic Has Never Been That Easy",
+          "text": "Retain your existing customers and get new visitors through a unique restaurant discovery app",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Request a demo</a>",
           "form": {
             "title": "SUBSCRIBE",
@@ -130,7 +130,7 @@
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Email Address here"
+                "customTitle": "Your Email Address"
               }
             }
           },
@@ -259,13 +259,13 @@
           },
           "title": "Tab Content",
           "title1": "Increase loyalty of existing customers",
-          "title2": "Benefit from tourists",
+          "title2": "Reach incoming and outbounding tourists&nbsp;",
           "title3": "Attract new visitors",
           "title4": "Tab heading 4",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"true\">Responsive</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"false\">Animated</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"false\">Creative</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
-          "text1_1": "72 % of customers visit a business only after reading a review. But current reviews come from foreigners, leading to lack of realibility and of trust.&nbsp;",
+          "tabTitle": "<li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"false\">Responsive</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"false\">Animated</a></li><li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"true\">Creative</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
+          "text1_1": "72 % of customers visit a business only after reading a review. But current reviews come from foreigners, leading to lack of trustfulness and of reliability. if there is someone who can recommend fantastic places to your customers, then it is you. Shape their culinary journey and make them think of you no matter where they are.&nbsp;",
           "text2_1": "In 2016 more than 2.2 Billion Americans travelled for private journeys and business reasons. Have you shaped their food journey and have you drawn their attention to your restaurant? It's time to take action the easy way.&nbsp;",
           "text3_1": "85 % of all individuals we surveyed cannot find what they are looking for on existing restaurant discovery apps - like your restaurant. Our customized approach changes that. Start getting the right visitors now.",
           "text4_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
@@ -295,7 +295,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": "0.5"
           },
-          "title": "<span style=\"font-weight: normal;\">We deliver relevant data.</span>",
+          "title": "<span style=\"font-weight: normal;\">We not just promise, but deliver relevant data.</span>",
           "text": "Magna eget nunc iaculis dolor amet nunc.",
           "alias": "unicore/components",
           "_tags": [
@@ -341,8 +341,8 @@
           "title2": "targeted marketing",
           "title3": "A Better netWORK",
           "text1": "Get relevant data from us to make informed decisions when shaping your offering and forecasting demand.",
-          "text2": "Reach the right customers at the right time with the right offers. Say goodbye to promotions that will not do anything for your revenue&nbsp;",
-          "text3": "Take advantage of the referrals from other businesses and create a network for customized marketing and best practice exchange.&nbsp;",
+          "text2": "Reach the right customers at the right time with the right offers. Say goodbye to promotions that impact your budget and not your revenue.&nbsp;",
+          "text3": "Take advantage of referrals from other businesses and create a network for customized marketing and best practice exchange.&nbsp;",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -488,7 +488,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "text1_1": "Finally I don't have to ask around for recommendations in my social community. Avantoria enables me to benefit from the experience of my bloggers and favorite restaurants whenever I am on the road.&nbsp;",
+          "text1_1": "The automated recommendation system is easy and makes a significant difference in how I am interacting with my frequent visitors.&nbsp;",
           "text1_2": "SUSAN Dave&nbsp;",
           "text2_1": "I love browsing online for new places in my hometown and for travels. But many of the places on search engines turn out to be a disappointment. With Avantoria those disappointments are finally over, and browsing for new places is just so much more fun.&nbsp;",
           "text2_2": "VALENTINA DOE",
