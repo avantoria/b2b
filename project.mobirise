@@ -16,13 +16,13 @@
         "isSquareButtons": false
       },
       "additionalSetColors": [
+        "#cbd1d4",
+        "#8b959b",
         "#222222",
         "#ffffff",
         "#333333",
         "#555555",
-        "#073e59",
-        "#0a364b",
-        "#f97352"
+        "#073e59"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -261,9 +261,9 @@
             }
           },
           "title": "Tab Content",
-          "title1": "Increase loyalty of existing customers",
-          "title2": "Reach incoming and outbounding tourists&nbsp;",
-          "title3": "Attract new visitors",
+          "title1": "Increase Loyalty Of Existing Customers",
+          "title2": "Reach Incoming and Outbounding Tourists&nbsp;",
+          "title3": "Attract New Visitors",
           "title4": "Tab heading 4",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
@@ -458,16 +458,16 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButtons": true,
+            "showButtons": false,
             "elements": "3",
-            "best": "3",
+            "best": "4",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#cbd1d4",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -484,14 +484,14 @@
           "currency1": "",
           "price1": "",
           "period1": "",
-          "list1": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">A flat monthly fee will help you plan and will keep your budget in shape while you grow&nbsp;</li></ul>",
+          "list1": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">A flat monthly fee will help you plan and will keep your budget in shape while you grow your revenue</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"notready.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">Sign up now</a>",
           "title2": "No licensing fee",
           "text2": "",
           "currency2": "",
           "price2": "",
           "period2": "",
-          "list2": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\"><span style=\"font-size: 16px;\">We understand that smart decision making requires flexibiltiy in accessing the data. That's why we let you use as many devices from as many locations as you want.&nbsp;</span></li></ul>",
+          "list2": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\"><span style=\"font-size: 16px;\">Smart decision making requires flexibility in accessing the data. That's why we let you use as many devices from as many locations as you want.&nbsp;</span></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"ourfavorits.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">Check our favorites</a>",
           "title3": "Flexibility guaranteed",
           "text3": "",
@@ -553,12 +553,12 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "text1_1": "The automated recommendation system is easy and makes a significant difference in how I am interacting with my frequent visitors.&nbsp;",
-          "text1_2": "SUSAN Dave&nbsp;",
-          "text2_1": "I love browsing online for new places in my hometown and for travels. But many of the places on search engines turn out to be a disappointment. With Avantoria those disappointments are finally over, and browsing for new places is just so much more fun.&nbsp;",
-          "text2_2": "VALENTINA DOE",
-          "text3_1": "I am travelling a lot for business and don't have the time to search for great places, so I often end up at the chains because I know what to expect. Avantoria is showing me the best places near me, allowing me to explore local businesses with the same if not even superior quality.",
-          "text3_2": "TIM FIELDS",
+          "text1_1": "The automated recommendation system is easy and makes a significant difference in how I am interacting with my frequent visitors. Now, thanks to Avantoria, we always have engaging conversations about places I have recommended, and their visits have noticably increased. &nbsp;",
+          "text1_2": "SUSAN Dave, Owner of La Cupola, Atlanta&nbsp;",
+          "text2_1": "The data insights I have gotten from Avantoria helped me adapt my staffing, leading to savings of 30 % year-to-date.&nbsp;",
+          "text2_2": "VALENTINA DOE, Owner of 72 DeGRESS SOUTH, NEW YORK",
+          "text3_1": "I like how Avantoria puts the customer in control of whom they receive recommendations from. It helps me as a restaurant to get visitors who will like my offering and are typically sharing their experiences online. That's marketing for free. &nbsp;",
+          "text3_2": "TIM FIELDS, Owner of CUBE, MIAMI",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -574,7 +574,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1464x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1841x1080.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -583,10 +583,10 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#151515",
+            "overlayColor": "#555555",
             "overlayOpacity": "0.8"
           },
-          "title1": "Expand your reach and increase revenue",
+          "title1": "You've got customers to delight. Let us help.",
           "text": "Benefit from a unique restaurant recommendation system that will not just connect you with customers, but help you make smarter decisions.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">request a demo</a>",
           "form": {
