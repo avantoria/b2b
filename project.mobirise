@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 89,
+    "uniqCompNum": 90,
     "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
@@ -118,7 +118,7 @@
             "overlayColor": "#555555",
             "overlayOpacity": 0.65
           },
-          "title1": "Increasing Loyalty and Traffic Has Never Been That Easy",
+          "title1": "Where Increasing Loyalty and Traffic Is Easy",
           "text": "Retain your existing customers and get new visitors through a unique restaurant discovery app",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Request a demo</a>",
           "form": {
@@ -246,10 +246,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x936.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -264,7 +267,7 @@
           "title4": "Tab heading 4",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"false\">Responsive</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"false\">Animated</a></li><li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"true\">Creative</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"false\">Existing customers</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"false\">new visitors</a></li><li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"true\">tourists</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
           "text1_1": "72 % of customers visit a business only after reading a review. But current reviews come from foreigners, leading to lack of trustfulness and of reliability. if there is someone who can recommend fantastic places to your customers, then it is you. Shape their culinary journey and make them think of you no matter where they are.&nbsp;",
           "text2_1": "In 2016 more than 2.2 Billion Americans travelled for private journeys and business reasons. Have you shaped their food journey and have you drawn their attention to your restaurant? It's time to take action the easy way.&nbsp;",
           "text3_1": "85 % of all individuals we surveyed cannot find what they are looking for on existing restaurant discovery apps - like your restaurant. Our customized approach changes that. Start getting the right visitors now.",
@@ -340,7 +343,7 @@
           "title1": "Advanced analytics",
           "title2": "targeted marketing",
           "title3": "A Better netWORK",
-          "text1": "Get relevant data from us to make informed decisions when shaping your offering and forecasting demand.",
+          "text1": "Get relevant data from us to make informed decisions when shaping your offering and forecasting demand.<br><br>",
           "text2": "Reach the right customers at the right time with the right offers. Say goodbye to promotions that impact your budget and not your revenue.&nbsp;",
           "text3": "Take advantage of referrals from other businesses and create a network for customized marketing and best practice exchange.&nbsp;",
           "alias": "unicore/components",
@@ -352,6 +355,68 @@
           "_styles": {
             "i": {
               "color": "#f44336 !important"
+            }
+          }
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1807x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Meet Your New Restaurant Manager&nbsp;",
+                "contentAlign": "left",
+                "overlay": "true",
+                "text": "Our data will allow you to keep track of the number of customers you feed daily, of your most popular dishes and the items on your menu you might want to consider replacing. &nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">request a demo</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1619x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Make Your Payroll Efficient",
+                "contentAlign": "center",
+                "overlay": "true",
+                "text": "The best way to efficiently staff your restaurant is by using our data. Employ all of your servers, hosts and bussers when it is busy and adapt your scheduling during calmer days to save a tremendous amount of money.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST A DEMO</a> ",
+                "overlayColor": "#555555"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Create better digital marketing",
+                "contentAlign": "right",
+                "overlay": "true",
+                "text": "Let your profile and our suggested targeted promotions do the digital marketing for you. Delighted guests will share their experience on social media, making marketing a no-cost no-brainer. &nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Request a demo</a> ",
+                "overlayColor": "#555555"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-2h",
+          "_styles": {
+            "H1": {
+              "font-size": "36px"
             }
           }
         },
@@ -419,7 +484,7 @@
           "currency1": "",
           "price1": "",
           "period1": "",
-          "list1": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">Sign up for free&nbsp;</li><li class=\"pricing__feature\">Save your personal preferences for a customized search</li><li class=\"pricing__feature\"><span style=\"font-size: 16px;\"><br></span></li></ul>",
+          "list1": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">A flat monthly fee will help you plan and will keep your budget in shape while you grow&nbsp;</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"notready.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">Sign up now</a>",
           "title2": "No licensing fee",
           "text2": "",
@@ -521,8 +586,8 @@
             "overlayColor": "#151515",
             "overlayOpacity": "0.8"
           },
-          "title1": "Join our network!",
-          "text": "Benefit from a unique restaurant recommendation system and increase revenue now.&nbsp;",
+          "title1": "Expand your reach and increase revenue",
+          "text": "Benefit from a unique restaurant recommendation system that will not just connect you with customers, but help you make smarter decisions.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">request a demo</a>",
           "form": {
             "title": "SUBSCRIBE",
@@ -534,12 +599,12 @@
               "name": {
                 "visible": true,
                 "title": "Full Name",
-                "customTitle": "Full Name"
+                "customTitle": "Your Name"
               },
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "Email Address here"
+                "customTitle": "Your Email Address"
               }
             }
           },
