@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "B2B Landing Page - Be Found",
-    "currentPage": "index.html",
+    "currentPage": "howitworks.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -837,7 +837,7 @@
         }
       ]
     },
-    "how-it-works.html": {
+    "howitworks.html": {
       "settings": {
         "title": "HOW IT WORKS",
         "order": 1
