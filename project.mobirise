@@ -125,7 +125,7 @@
             "title": "SUBSCRIBE",
             "action": "rreichert@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "We will be in touch shortly! "
             },
             "fields": {
               "email": {
@@ -377,7 +377,7 @@
                 "contentAlign": "left",
                 "overlay": "true",
                 "text": "Our data will allow you to keep track of the number of customers you feed daily, of your most popular dishes and the items on your menu you might want to consider replacing. &nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"https://mobirise.com.how-it-works.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"https://mobirise.com/how-it-works.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1619x1080.jpg",
@@ -593,7 +593,7 @@
             "title": "SUBSCRIBE",
             "action": "mreichert@avantoria.com",
             "alerts": {
-              "success": "Thank you for you interest in Avantoria. We will be in touch shortly."
+              "success": "We will be in touch shortly!"
             },
             "fields": {
               "name": {
