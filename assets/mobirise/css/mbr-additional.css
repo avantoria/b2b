@@ -222,12 +222,12 @@ p {
 }
 #dropdown-menu-1b .navbar,
 #dropdown-menu-1b .dropdown-menu {
-  background: #0a364b;
+  background: #f44336;
 }
 #dropdown-menu-1b .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-1b .dropdown-menu a:hover,
 #dropdown-menu-1b .dropdown-menu a:focus {
-  background: #082939;
+  background: #f33123;
 }
 #dropdown-menu-1b .navbar-toggler {
   color: #ffffff;
@@ -250,13 +250,56 @@ p {
 }
 #dropdown-menu-1g .navbar,
 #dropdown-menu-1g .dropdown-menu {
-  background: #0a364b;
+  background: #f44336;
 }
 #dropdown-menu-1g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-1g .dropdown-menu a:hover,
 #dropdown-menu-1g .dropdown-menu a:focus {
-  background: #082939;
+  background: #f33123;
 }
 #dropdown-menu-1g .navbar-toggler {
   color: #ffffff;
+}
+#dropdown-menu-2i .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2i .nav .link,
+#dropdown-menu-2i .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2i .navbar,
+#dropdown-menu-2i .dropdown-menu {
+  background: #f44336;
+}
+#dropdown-menu-2i .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2i .dropdown-menu a:hover,
+#dropdown-menu-2i .dropdown-menu a:focus {
+  background: #f33123;
+}
+#dropdown-menu-2i .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box4-2l H3 {
+  text-align: left;
+  font-size: 25px;
+  color: #f44336;
+}
+#msg-box5-2m H3 {
+  font-size: 25px;
+  color: #f44336;
+}
+#msg-box4-2n H3 {
+  text-align: left;
+  font-size: 25px;
+  color: #f44336;
+}
+#msg-box5-2p H3 {
+  font-size: 25px;
+  color: #f44336;
+}
+#msg-box4-2q H3 {
+  text-align: left;
+  font-size: 25px;
+  color: #f44336;
 }
