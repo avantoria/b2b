@@ -377,7 +377,7 @@
                 "contentAlign": "left",
                 "overlay": "true",
                 "text": "Our data will allow you to keep track of the number of customers you feed daily, of your most popular dishes and the items on your menu you might want to consider replacing. &nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE a demo</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"https://mobirise.com.how-it-works.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1619x1080.jpg",
@@ -389,7 +389,7 @@
                 "contentAlign": "center",
                 "overlay": "true",
                 "text": "The best way to efficiently staff your restaurant is by using our data. Employ all of your servers, hosts and bussers when it is busy and adapt your scheduling during calmer days to save a tremendous amount of money.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST A DEMO</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"https://mobirise.com/how-it-works.html\" data-toolbar=\"-mbrBtnMove\">LEarn more</a> ",
                 "overlayColor": "#555555"
               },
               {
@@ -402,7 +402,7 @@
                 "contentAlign": "right",
                 "overlay": "true",
                 "text": "Let your profile and our suggested targeted promotions do the digital marketing for you. Delighted guests will share their experience on social media, making marketing a no-cost no-brainer. &nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Request a demo</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"https://mobirise.com/how-it-works.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
                 "overlayColor": "#555555"
               }
             ]
