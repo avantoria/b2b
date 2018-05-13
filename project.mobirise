@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 119,
+    "uniqCompNum": 128,
     "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
@@ -117,7 +117,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.9
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -131,7 +131,7 @@
             }
           },
           "title": "<b>Automatically</b> Increase Your Traffic and Loyal Customer Base With Our <b>Effortless</b> Platform",
-          "text": "Retain your existing customers and get new visitors through a unique restaurant discovery app",
+          "text": "Engage with your customers through our fun and easy to use restaurant discovery app and get access to our powerful platform providing you with invaluable insights.",
           "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Get A Demo<i class=\"fa fa-shopping-cart\"></i></a>",
           "alias": "unicore/components",
           "_tags": [
@@ -141,7 +141,7 @@
           "_anchor": "header18-3a",
           "_styles": {
             "H3": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           }
         },
@@ -162,7 +162,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": "0.5"
           },
-          "title": "Why Choose Avantoria?",
+          "title": "Benefits Designed For Your Business",
           "text": "Magna eget nunc iaculis dolor amet nunc.",
           "alias": "unicore/components",
           "_tags": [
@@ -209,10 +209,10 @@
             "icon4": ""
           },
           "title1": "Customers Enjoy A Unique Restaurant Discovery App<br>",
-          "title2": "Automatically Increase Loyalty of Your Customers<br>",
+          "title2": "You Automatically Increase Loyalty of Your Customers<br>",
           "title3": "No Unqualified Ratings<br><br>",
           "title4": "",
-          "text1": "<br>Benefit from a restaurant discovery app that really works. Recommendations are limited to select experts only users themselves choose. Gain attention from the right people at the right time.&nbsp;",
+          "text1": "Benefit from a restaurant discovery app that really works. Recommendations are limited to select experts only users themselves choose. Gain attention from the right people at the right time.&nbsp;",
           "text2": "Become an expert to your customers and automatically recommend your favorite restaurants to them. Retain their loyalty through delighting experiences that go beyond your restaurant.&nbsp;",
           "text3": "Say goodbye to unqualified ratings of biased guests. Our unique recommendations approach ensures that you get the attention you deserve.",
           "text4": "",
@@ -227,6 +227,58 @@
             }
           },
           "_anchor": "features1-1u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showButtons": true,
+            "animType": "gorizontal",
+            "image1": "@PROJECT_PATH@/assets/images/customize-slim-bg-370x757.png",
+            "image2": "@PROJECT_PATH@/assets/images/share-slim-bg-370x732.png",
+            "image3": "@PROJECT_PATH@/assets/images/profile-wide-bg-1080x732.png",
+            "image4": "@PROJECT_PATH@/assets/images/upcoming-trips-slim-bg-362x731.png",
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">People love our fun app. They will love you for your amazing recommendations.</span>",
+          "title1": "<strong>Customizable Search</strong>",
+          "title2": "<strong>Sharing Favorites</strong>",
+          "title3": "<b>New Profile</b>",
+          "title4": "<strong>Upcoming Trips</strong>",
+          "text1": "Whether your customers have dietary needs or particular preferences, Avantoria will help them have wonderful dining experiences without any heavy research involved.  ",
+          "text2": "It only takes one click to let your customers know which restaurants you enjoy, helping your social community have a great experience at your favorite places. ",
+          "text3": "With Avantoria your customers profile becomes a world of discoveries. They see where their trips have already taken them and they can explore what is still outstanding.",
+          "text4": "Customers can prepare upcoming trips in a game changing way. They can explore your recommendations at their fingertips and save them to their Avantoria library.",
+          "button1": "<a data-app-btn=\"true\" href=\"howitworks.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"howitworks.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"howitworks.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"howitworks.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features10",
+          "_anchor": "features10-3d",
+          "_styles": {
+            "SPAN": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          }
         },
         {
           "_params": {
@@ -1003,7 +1055,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/profile-wide-bg-1080x732.png",
+              "src": "@PROJECT_PATH@/assets/images/profile-wide-bg-1080x7323.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1229,7 +1281,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/profile-wide-bg-1080x732.png",
+              "src": "@PROJECT_PATH@/assets/images/profile-wide-bg-1080x7323.png",
               "link": "",
               "alt": "",
               "title": "",

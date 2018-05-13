@@ -168,7 +168,7 @@ p {
   color: #ffffff;
 }
 #header18-3a H3 {
-  font-size: 46px;
+  font-size: 36px;
 }
 #msg-box18-37 H3 {
   color: #222222;
@@ -181,6 +181,12 @@ p {
 }
 #features1-1u H4 {
   color: #f44336;
+}
+#features10-3d SPAN {
+  font-size: 36px;
+}
+#features10-3d P {
+  font-size: 12px;
 }
 #msg-box18-25 H3 {
   color: #222222;
