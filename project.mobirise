@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 116,
+    "uniqCompNum": 119,
     "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
@@ -102,10 +102,11 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showForm": true,
-            "paddingTop": "1",
-            "paddingBottom": 2,
+            "showMedia": true,
+            "showButtons": true,
             "bgImageRadio": true,
+            "paddingTop": 2,
+            "paddingBottom": 0,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
             "parallax": false,
             "bgColorRadio": false,
@@ -115,31 +116,34 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#555555",
-            "overlayOpacity": 0.65
+            "overlayColor": "#000",
+            "overlayOpacity": 0.9
           },
-          "title1": "<b>Automatically</b> Increase Your&nbsp;Traffic and Loyal Customer Base With Our <b>Effortless</b> Platform",
-          "text": "Retain your existing customers and get new visitors through a unique restaurant discovery app",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEE a demo</a>",
-          "form": {
-            "title": "SUBSCRIBE",
-            "action": "rreichert@gmail.com",
-            "alerts": {
-              "success": "We will be in touch shortly! "
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Your Email Address"
-              }
+          "media": {
+            "image": {
+              "active": true,
+              "class": "pull-left",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dashboard-864x483.png",
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
+          "title": "<b>Automatically</b> Increase Your Traffic and Loyal Customer Base With Our <b>Effortless</b> Platform",
+          "text": "Retain your existing customers and get new visitors through a unique restaurant discovery app",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Get A Demo<i class=\"fa fa-shopping-cart\"></i></a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header13",
-          "_anchor": "header13-2a"
+          "_name": "header18",
+          "_anchor": "header18-3a",
+          "_styles": {
+            "H3": {
+              "font-size": "46px"
+            }
+          }
         },
         {
           "_params": {
@@ -158,7 +162,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": "0.5"
           },
-          "title": "<span style=\"font-weight: normal;\">Why Choose Avantoria?</span>",
+          "title": "Why Choose Avantoria?",
           "text": "Magna eget nunc iaculis dolor amet nunc.",
           "alias": "unicore/components",
           "_tags": [
@@ -168,10 +172,11 @@
           "_styles": {
             "H3": {
               "color": "#222222",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "36px"
             },
             "SPAN": {
-              "font-size": "48px",
+              "font-size": "24px",
               "color": "#333333"
             }
           },
@@ -182,7 +187,7 @@
             "showTitles": true,
             "showText": true,
             "elements": "3",
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
@@ -203,8 +208,8 @@
             "icon3": "fa-paint-brush",
             "icon4": ""
           },
-          "title1": "Unique Restaurant Discovery App<br>",
-          "title2": "Automatically increase loyalty of your existing customers<br>",
+          "title1": "Customers Enjoy A Unique Restaurant Discovery App<br>",
+          "title2": "Automatically Increase Loyalty of Your Customers<br>",
           "title3": "No Unqualified Ratings<br><br>",
           "title4": "",
           "text1": "<br>Benefit from a restaurant discovery app that really works. Recommendations are limited to select experts only users themselves choose. Gain attention from the right people at the right time.&nbsp;",
@@ -303,7 +308,7 @@
           "title4": "Tab heading 4",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"false\">Existing customers</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"false\">new visitors</a></li><li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"true\">tourists</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"true\">Existing customers</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"false\">new visitors</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"false\">tourists</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
           "text1_1": "72 % of customers visit a business only after reading a review. But current reviews come from foreigners, leading to lack of trustfulness and of reliability. if there is someone who can recommend fantastic places to your customers, then it is you. Shape their culinary journey and make them think of you no matter where they are.&nbsp;",
           "text2_1": "In 2016 more than 2.2 Billion Americans travelled for private journeys and business reasons. Have you shaped their food journey and have you drawn their attention to your restaurant? It's time to take action the easy way.&nbsp;",
           "text3_1": "85 % of all individuals we surveyed cannot find what they are looking for on existing restaurant discovery apps - like your restaurant. Our customized approach changes that. Start getting the right visitors now.",
