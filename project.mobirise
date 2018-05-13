@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "B2B Landing Page - Be Found",
-    "currentPage": "howitworks.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 103,
+    "uniqCompNum": 116,
     "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
@@ -103,7 +103,7 @@
             "showTitle": true,
             "showText": true,
             "showForm": true,
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
@@ -118,7 +118,7 @@
             "overlayColor": "#555555",
             "overlayOpacity": 0.65
           },
-          "title1": "Where Increasing Loyalty and Traffic Is Easy",
+          "title1": "<b>Automatically</b> Increase <i>Your</i> Traffic and Loyal Customer Base With Our <b>Effortless</b> Platform",
           "text": "Retain your existing customers and get new visitors through a unique restaurant discovery app",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEE a demo</a>",
           "form": {
@@ -140,6 +140,42 @@
           ],
           "_name": "header13",
           "_anchor": "header13-2a"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<span style=\"font-weight: normal;\">Why Choose Avantoria?</span>",
+          "text": "Magna eget nunc iaculis dolor amet nunc.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box18",
+          "_styles": {
+            "H3": {
+              "color": "#222222",
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-size": "48px",
+              "color": "#333333"
+            }
+          },
+          "_anchor": "msg-box18-37"
         },
         {
           "_params": {
@@ -732,7 +768,7 @@
     ".html": {
       "settings": {
         "title": "FAQ",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -840,7 +876,7 @@
     "howitworks.html": {
       "settings": {
         "title": "HOW IT WORKS",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
