@@ -41,7 +41,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Avantoria App",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -79,7 +79,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"#bottom\">Schedule Demo</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://getapp.avantoria.com\">Consumer App</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"#bottom\">Schedule Demo</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -963,7 +963,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"#bottom\">Schedule Demo</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://getapp.avantoria.com\">Consumer App</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"#bottom\">Schedule Demo</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1075,7 +1075,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"#bottom\">Schedule Demo</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://getapp.avantoria.com\">Consumer App</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"#bottom\">Schedule Demo</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1183,7 +1183,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"#bottom\">Schedule Demo</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://getapp.avantoria.com\">Consumer App</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"#bottom\">Schedule Demo</a></li>",
           "logo": {
             "image": {
               "active": true,
