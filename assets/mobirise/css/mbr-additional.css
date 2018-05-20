@@ -182,11 +182,17 @@ p {
 #features1-1u H4 {
   color: #f44336;
 }
-#features10-3d SPAN {
-  font-size: 36px;
+#features2-3s H1 {
+  color: #f44336;
 }
-#features10-3d P {
-  font-size: 12px;
+#features2-3m H4 {
+  text-align: center;
+}
+#features2-3m SMALL {
+  text-align: center;
+}
+#features2-3m P {
+  text-align: center;
 }
 #msg-box18-25 H3 {
   color: #222222;
@@ -303,6 +309,9 @@ p {
   font-size: 25px;
   color: #f44336;
 }
+#msg-box4-2l P {
+  text-align: left;
+}
 #msg-box5-2m H3 {
   font-size: 25px;
   color: #f44336;
@@ -319,5 +328,8 @@ p {
 #msg-box4-2q H3 {
   text-align: left;
   font-size: 25px;
+  color: #f44336;
+}
+#features2-3p H1 {
   color: #f44336;
 }

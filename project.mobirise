@@ -16,18 +16,18 @@
         "isSquareButtons": false
       },
       "additionalSetColors": [
+        "#f5f5f5",
         "#cbd1d4",
         "#8b959b",
         "#222222",
         "#ffffff",
         "#333333",
-        "#555555",
-        "#073e59"
+        "#555555"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 128,
+    "uniqCompNum": 138,
     "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
@@ -71,7 +71,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "transparent": true,
             "bgColor": "#f44336",
@@ -79,7 +79,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"how-it-works.html\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"index.html#header4-18\">Contact US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"index.html#header4-18\">Contact US</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -132,7 +132,7 @@
           },
           "title": "<b>Automatically</b> Increase Your Traffic and Loyal Customer Base With Our <b>Effortless</b> Platform",
           "text": "Engage with your customers through our fun and easy to use restaurant discovery app and get access to our powerful platform providing you with invaluable insights.",
-          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Get A Demo<i class=\"fa fa-shopping-cart\"></i></a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Get A Demo<i class=\"fa fa-shopping-cart\"></i></a> ",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -231,19 +231,19 @@
         {
           "_params": {
             "showTitle": true,
-            "showButtons": true,
-            "animType": "gorizontal",
-            "image1": "@PROJECT_PATH@/assets/images/customize-slim-bg-370x757.png",
-            "image2": "@PROJECT_PATH@/assets/images/share-slim-bg-370x732.png",
-            "image3": "@PROJECT_PATH@/assets/images/profile-wide-bg-1080x732.png",
-            "image4": "@PROJECT_PATH@/assets/images/upcoming-trips-slim-bg-362x731.png",
-            "paddingTop": 2,
-            "paddingBottom": "2",
+            "showText": true,
+            "showMedia": false,
+            "showName": true,
+            "showOccupation": true,
+            "showTexts": true,
+            "showSocials": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "paddingTop": 2,
+            "paddingBottom": "0",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f5f5f5",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -252,31 +252,247 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">People love our fun app. They will love you for your amazing recommendations.</span>",
-          "title1": "<strong>Customizable Search</strong>",
-          "title2": "<strong>Sharing Favorites</strong>",
-          "title3": "<b>New Profile</b>",
-          "title4": "<strong>Upcoming Trips</strong>",
-          "text1": "Whether your customers have dietary needs or particular preferences, Avantoria will help them have wonderful dining experiences without any heavy research involved.  ",
-          "text2": "It only takes one click to let your customers know which restaurants you enjoy, helping your social community have a great experience at your favorite places. ",
-          "text3": "With Avantoria your customers profile becomes a world of discoveries. They see where their trips have already taken them and they can explore what is still outstanding.",
-          "text4": "Customers can prepare upcoming trips in a game changing way. They can explore your recommendations at their fingertips and save them to their Avantoria library.",
-          "button1": "<a data-app-btn=\"true\" href=\"howitworks.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"howitworks.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"howitworks.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"howitworks.html\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
+          "header": "It is easy to Engage with your customers. See how it works.",
+          "subheader": "Setting up your profile doesn't require much. You link it to your existing social media channels and let us do the rest. Once you get familiar with the concept, you can customize your settings, build partnerships and much more.",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/1.jpg",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title1": "YOUR FAVORITES WILL SHAPE THE EXPERIENCE",
+          "subtitle1": "Step 1",
+          "caption1": "Link your social media accounts with your Avantoria profile and create the culinary journey of your customers as well as be found by new visitors through recommendations of other restaurants. ",
+          "links1": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/2.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title2": "YOUR CUSTOMERS WILL VISIT YOUR FAVORITES",
+          "subtitle2": "Step 2",
+          "caption2": "Your customers will be delighted by your tips and frequent your recommendations whenever traveling, becoming more and more loyal.",
+          "links2": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/3.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title3": "YOU WILL ATTRACT NEW VISITORS",
+          "subtitle3": "Step 3",
+          "caption3": "Other restaurants will recommend your place to their customers, allowing you to attract more guests and drive revenue. ",
+          "links3": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "features10",
-          "_anchor": "features10-3d",
+          "_name": "features2",
           "_styles": {
-            "SPAN": {
-              "font-size": "36px"
+            "H1": {
+              "color": "#f44336"
+            }
+          },
+          "_anchor": "features2-3s"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showMedia": false,
+            "showName": true,
+            "showOccupation": true,
+            "showTexts": true,
+            "showSocials": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f5f5f5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "header": "Our Awesome Team",
+          "subheader": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/1.jpg",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title1": "UNDERSTAND YOUR GUESTS",
+          "subtitle1": "Step 4",
+          "caption1": "Avantoria will create actionable items and dashboards for you helping you make smart decisions. For instance, see what dishes are the most and the least popular on what days and adapt your food supplies to reduce costs. ",
+          "links1": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/2.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title2": "YOU WILL MAKE POWERFUL PROMOTIONS",
+          "subtitle2": "Step 5",
+          "caption2": "Our marketing suggestions are based on AI, empowering you to truly target your ads and promotions to the right audience with the right offering. Say, instead of offering desert for free to everyone, promote it to the brownie fan, whilst offering a side salad for free to the health-conscious sports enthusiast. ",
+          "links2": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/3.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title3": "Be Rewarded",
+          "subtitle3": "Step 6",
+          "caption3": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links3": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-3t"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": true,
+            "showName": true,
+            "showOccupation": false,
+            "showTexts": true,
+            "showSocials": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "header": "Satisfaction is not enough. Engage and Delight your customers.",
+          "subheader": "People love our fun and easy to use app and they will love you for the input you are giving, because it will guarantee a consistently amazing experience anywhere they go. They will thank you with their loyalty.",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/customize-wide-bg-600x451.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title1": "Customizable Search",
+          "subtitle1": "Founder",
+          "caption1": "Whether your customers have dietary needs or particular preferences, Avantoria will help them have wonderful dining experiences without any heavy research involved.",
+          "links1": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/share-wide-bg-600x436.png",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title2": "Sharing Favorites",
+          "subtitle2": "Reception",
+          "caption2": "It only takes one click to let your customers know which restaurants you enjoy, helping your social community have a great experience at your favorite places.",
+          "links2": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/upcoming-trips-wide-bg-600x435.png",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title3": "Upcoming Trips",
+          "subtitle3": "Sales Team",
+          "caption3": "Customers can prepare upcoming trips in a game changing way. They can explore your recommendations at their fingertips and save them to their Avantoria library.",
+          "links3": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-3m",
+          "_styles": {
+            "H4": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "text-align": "center"
             },
             "P": {
-              "font-size": "12px"
+              "text-align": "center"
             }
           }
         },
@@ -360,7 +576,7 @@
           "title4": "Tab heading 4",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"true\">Existing customers</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"false\">new visitors</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"false\">tourists</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab1\" aria-expanded=\"false\">Existing customers</a></li><li class=\"\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab3\" aria-expanded=\"false\">new visitors</a></li><li class=\"active\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab2\" aria-expanded=\"true\">tourists</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li style=\"display: none\"><a class=\"mbr-title-font\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
           "text1_1": "72 % of customers visit a business only after reading a review. But current reviews come from foreigners, leading to lack of trustfulness and of reliability. if there is someone who can recommend fantastic places to your customers, then it is you. Shape their culinary journey and make them think of you no matter where they are.&nbsp;",
           "text2_1": "In 2016 more than 2.2 Billion Americans travelled for private journeys and business reasons. Have you shaped their food journey and have you drawn their attention to your restaurant? It's time to take action the easy way.&nbsp;",
           "text3_1": "85 % of all individuals we surveyed cannot find what they are looking for on existing restaurant discovery apps - like your restaurant. Our customized approach changes that. Start getting the right visitors now.",
@@ -491,7 +707,7 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Create better digital marketing",
+                "title": "Create Better Digital Marketing",
                 "contentAlign": "right",
                 "overlay": "true",
                 "text": "Let your profile and our suggested targeted promotions do the digital marketing for you. Delighted guests will share their experience on social media, making marketing a no-cost no-brainer. &nbsp;",
@@ -681,7 +897,7 @@
           },
           "title1": "You've got customers to delight. Let us help.",
           "text": "Benefit from a unique restaurant recommendation system that will not just connect you with customers, but help you make smarter decisions.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEE a demo</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get a demo</a>",
           "form": {
             "title": "SUBSCRIBE",
             "action": "mreichert@avantoria.com",
@@ -739,7 +955,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "transparent": true,
             "bgColor": "#f44336",
@@ -747,7 +963,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"how-it-works.html\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"index.html#header4-18\">Contact US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"index.html#header4-18\">Contact US</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -851,7 +1067,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "transparent": true,
             "bgColor": "#f44336",
@@ -859,7 +1075,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"how-it-works.html\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"index.html#header4-18\">Contact US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"index.html#header4-18\">Contact US</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -959,7 +1175,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "transparent": true,
             "bgColor": "#f44336",
@@ -967,7 +1183,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"how-it-works.html\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"index.html#header4-18\">Contact US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-3s\">HOW IT Works</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html#msg-box18-1l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"index.html#header4-18\">Contact US</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1055,7 +1271,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/profile-wide-bg-1080x7323.png",
+              "src": "@PROJECT_PATH@/assets/images/profile-wide-bg-1080x732.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1082,6 +1298,9 @@
               "text-align": "left",
               "font-size": "25px",
               "color": "#f44336"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box4-2l"
@@ -1281,7 +1500,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/profile-wide-bg-1080x7323.png",
+              "src": "@PROJECT_PATH@/assets/images/profile-wide-bg-1080x732.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1311,6 +1530,173 @@
             }
           },
           "_anchor": "msg-box4-2q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": false,
+            "showName": true,
+            "showOccupation": true,
+            "showTexts": true,
+            "showSocials": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f5f5f5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "header": "It is easy to Engage with your customers. See how it works.",
+          "subheader": "Setting up your profile doesn't require much. You link it to your existing social media channels and let us do the rest. Once you get familiar with the concept, you can customize your settings, build partnerships and much more.",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/1.jpg",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title1": "YOUR FAVORITES WILL SHAPE THE EXPERIENCE",
+          "subtitle1": "Step 1",
+          "caption1": "Link your social media accounts with your Avantoria profile and create the culinary journey of your customers as well as be found by new visitors through recommendations of other restaurants. ",
+          "links1": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/2.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title2": "YOUR CUSTOMERS WILL VISIT YOUR FAVORITES",
+          "subtitle2": "Step 2",
+          "caption2": "Your customers will be delighted by your tips and frequent your recommendations whenever traveling, becoming more and more loyal.",
+          "links2": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/3.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title3": "YOU WILL ATTRACT NEW VISITORS",
+          "subtitle3": "Step 3",
+          "caption3": "Other restaurants will recommend your place to their customers, allowing you to attract more guests and drive revenue. ",
+          "links3": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-3p",
+          "_styles": {
+            "H1": {
+              "color": "#f44336"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showMedia": false,
+            "showName": true,
+            "showOccupation": true,
+            "showTexts": true,
+            "showSocials": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f5f5f5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "header": "Our Awesome Team",
+          "subheader": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/1.jpg",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title1": "UNDERSTAND YOUR GUESTS",
+          "subtitle1": "Step 4",
+          "caption1": "Avantoria will create actionable items and dashboards for you helping you make smart decisions. For instance, see what dishes are the most and the least popular on what days and adapt your food supplies to reduce costs. ",
+          "links1": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/2.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title2": "YOU WILL MAKE POWERFUL PROMOTIONS",
+          "subtitle2": "Step 5",
+          "caption2": "Our marketing suggestions are based on AI, empowering you to truly target your ads and promotions to the right audience with the right offering. Say, instead of offering desert for free to everyone, promote it to the brownie fan, whilst offering a side salad for free to the health-conscious sports enthusiast. ",
+          "links2": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/team/3.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title3": "Make up another step",
+          "subtitle3": "Step 6",
+          "caption3": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links3": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-3r"
         },
         {
           "_params": {
